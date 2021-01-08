@@ -15,12 +15,16 @@
 #     for j in range(19):
 #         print(baduk[i][j],end = " ")
 #     print()
+#
 
+#answer
 m = []
 for i in range(20):
     m.append([])
     for j in range(20):
         m[i].append(0)
+
+print("test:" , m)
 
 n = int(input())
 for i in range(n):

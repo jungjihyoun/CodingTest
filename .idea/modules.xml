@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../html_project/.idea/-.iml" filepath="$PROJECT_DIR$/../html_project/.idea/-.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CodingTest.iml" filepath="$PROJECT_DIR$/.idea/CodingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavascriptGame/.idea/JavascriptGame.iml" filepath="$PROJECT_DIR$/../JavascriptGame/.idea/JavascriptGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../expressapp/.idea/expressapp.iml" filepath="$PROJECT_DIR$/../expressapp/.idea/expressapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../html-youtube/.idea/html-youtube.iml" filepath="$PROJECT_DIR$/../html-youtube/.idea/html-youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jspractice/.idea/jspractice.iml" filepath="$PROJECT_DIR$/../jspractice/.idea/jspractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../landing-page/.idea/landing-page.iml" filepath="$PROJECT_DIR$/../landing-page/.idea/landing-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nodeJs/.idea/nodeJs.iml" filepath="$PROJECT_DIR$/../nodeJs/.idea/nodeJs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../paintjs/.idea/paintjs.iml" filepath="$PROJECT_DIR$/../paintjs/.idea/paintjs.iml" />
     </modules>
   </component>
 </project>

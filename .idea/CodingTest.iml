@@ -4,6 +4,15 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="expressapp" />
+    <orderEntry type="module" module-name="JavascriptGame" />
+    <orderEntry type="module" module-name="jspractice" />
+    <orderEntry type="module" module-name="nodeJs" />
+    <orderEntry type="module" module-name="paintjs" />
+    <orderEntry type="module" module-name="JavascriptGame" />
+    <orderEntry type="module" module-name="landing-page" />
+    <orderEntry type="module" module-name="-" />
+    <orderEntry type="module" module-name="html-youtube" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

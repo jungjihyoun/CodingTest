@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89304798-f897-4d0c-9e19-e82a4db94287" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testgit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodingTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodingTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gittest2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS/BFS_ex59.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/BFS_ex59.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS/BFS_pr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/BFS_pr3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS/DFS_ex57.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/DFS_ex57.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ant_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/ant_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baduk.py" beforeDir="false" afterPath="$PROJECT_DIR$/baduk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baduk_cross.py" beforeDir="false" afterPath="$PROJECT_DIR$/baduk_cross.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy_ex31.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_ex31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy_pr2.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_pr2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy_pr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_pr3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy_pr4.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_pr4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implement_ex41.py" beforeDir="false" afterPath="$PROJECT_DIR$/implement_ex41.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implement_pr2.py" beforeDir="false" afterPath="$PROJECT_DIR$/implement_pr2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/implement_pr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/implement_pr3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pick_Candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/pick_Candy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stockPrice.py" beforeDir="false" afterPath="$PROJECT_DIR$/stockPrice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +80,8 @@
       <recent name="C:\Users\정지현\Desktop\CodingTest\DFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.testgit">
-    <configuration name="greedy_pr3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.gittest2">
+    <configuration name="gittest2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +94,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy_pr3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gittest2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,6 +193,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gittest2" />
         <item itemvalue="Python.testgit" />
         <item itemvalue="Python.stockPrice" />
       </list>
@@ -249,7 +231,8 @@
       <workItem from="1612135799119" duration="10727000" />
       <workItem from="1612178116526" duration="1843000" />
       <workItem from="1612222795575" duration="8555000" />
-      <workItem from="1613114288073" duration="101000" />
+      <workItem from="1613114288073" duration="479000" />
+      <workItem from="1613115270318" duration="24000" />
     </task>
     <servers />
   </component>
@@ -304,23 +287,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2499" y="172" key="CommitChangelistDialog2" timestamp="1612137867406">
-      <screen x="1920" y="0" width="1920" height="1160" />
-    </state>
-    <state x="2499" y="172" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1612137867406" />
-    <state x="2739" y="384" key="FileChooserDialogImpl" timestamp="1612182084613">
-      <screen x="1920" y="0" width="1920" height="1160" />
-    </state>
-    <state x="2739" y="384" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1612182084613" />
-    <state x="546" y="192" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611893178905" />
-    <state x="2536" y="270" width="672" height="677" key="run.anything.popup" timestamp="1612146214460">
-      <screen x="1920" y="0" width="1920" height="1160" />
-    </state>
-    <state x="2536" y="270" width="672" height="677" key="run.anything.popup/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1612146214460" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodingTest$stockPrice.coverage" NAME="stockPrice Coverage Results" MODIFIED="1613114382815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CodingTest$testgit.coverage" NAME="testgit Coverage Results" MODIFIED="1613114403708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/baduk_cross.py">

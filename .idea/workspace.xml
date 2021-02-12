@@ -2,81 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89304798-f897-4d0c-9e19-e82a4db94287" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stockPrice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testgit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/CodingTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodingTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/.idea/-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../html_project/.idea/-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../html_project/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/Tetris/board.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/Tetris/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/Tetris/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/Tetris/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/Tetris/piece.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/Tetris/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/html-youtube/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html_project/html-youtube/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/interactiveCSS/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html_project/interactiveCSS/grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/landing-page/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../html_project/landing-page/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/lottery_program" beforeDir="false" afterPath="$PROJECT_DIR$/../html_project/lottery_program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/react/first_react.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/react/like_button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html_project/react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS/BFS_ex59.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/BFS_ex59.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS/BFS_pr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/BFS_pr3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS/DFS_ex57.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/DFS_ex57.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ant_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/ant_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baduk.py" beforeDir="false" afterPath="$PROJECT_DIR$/baduk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baduk_cross.py" beforeDir="false" afterPath="$PROJECT_DIR$/baduk_cross.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy_ex31.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_ex31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy_pr2.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_pr2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy_pr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_pr3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy_pr4.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_pr4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/implement_ex41.py" beforeDir="false" afterPath="$PROJECT_DIR$/implement_ex41.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/implement_pr2.py" beforeDir="false" afterPath="$PROJECT_DIR$/implement_pr2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/implement_pr3.py" beforeDir="false" afterPath="$PROJECT_DIR$/implement_pr3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pick_Candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/pick_Candy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stockPrice.py" beforeDir="false" afterPath="$PROJECT_DIR$/stockPrice.py" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/../expressapp/.tmp/" />
-    <ignored path="$PROJECT_DIR$/../expressapp/temp/" />
-    <ignored path="$PROJECT_DIR$/../expressapp/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFS/BFS_ex59.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFS/BFS_pr3.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFS/DFS_ex57.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stockPrice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy_ex31.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy_pr2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,7 +80,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -149,40 +99,7 @@
       <recent name="C:\Users\정지현\Desktop\CodingTest\DFS" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.stockPrice">
-    <configuration name="DFS_ex57" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodingTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\정지현\Desktop\CodingTest\DFS\DFS_ex57.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.testgit">
     <configuration name="greedy_pr3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodingTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,6 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy_pr3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -216,6 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy_pr4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -237,6 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/implement_pr3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -258,7 +178,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stockPrice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testgit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testgit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,6 +212,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testgit" />
         <item itemvalue="Python.stockPrice" />
       </list>
     </recent_temporary>
@@ -285,6 +229,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -304,19 +249,19 @@
       <workItem from="1612135799119" duration="10727000" />
       <workItem from="1612178116526" duration="1843000" />
       <workItem from="1612222795575" duration="8555000" />
+      <workItem from="1613114288073" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="976" height="1176" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298872" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298872" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -331,22 +276,14 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -365,6 +302,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2499" y="172" key="CommitChangelistDialog2" timestamp="1612137867406">
@@ -380,6 +318,9 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2536" y="270" width="672" height="677" key="run.anything.popup/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1612146214460" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodingTest$stockPrice.coverage" NAME="stockPrice Coverage Results" MODIFIED="1613114382815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/baduk_cross.py">
